@@ -244,6 +244,3 @@ if __name__ == '__main__':
 f_DRAM_data.close()
 f_DRAM_inst.close()
 f_new_DRAM_inst.close()
-
-
-
