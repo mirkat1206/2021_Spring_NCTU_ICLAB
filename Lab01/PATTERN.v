@@ -1,4 +1,3 @@
-
 `define CYCLE_TIME 20.0
 
 `ifdef RTL
