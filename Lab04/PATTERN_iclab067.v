@@ -20,7 +20,6 @@
 	`define CYCLE_TIME 8.0
 `endif
 
-
 module PATTERN(
 	// Output signals
 	clk,
