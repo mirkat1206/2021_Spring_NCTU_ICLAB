@@ -492,10 +492,6 @@ endmodule
 //================================================================
 //	SUBMODULE
 //================================================================
-
-
-
-
 module Modular509(clk, rst_n, in_valid, in, out_valid, out);
 //================================================================
 //  INPUT AND OUTPUT DECLARATION                         
@@ -560,8 +556,6 @@ always @(posedge clk or negedge rst_n) begin
 end
 assign out = in_r ;
 endmodule
-
-
 
 
 
@@ -690,8 +684,6 @@ always @(posedge clk or negedge rst_n) begin
 	end
 end
 endmodule
-
-
 
 
 
