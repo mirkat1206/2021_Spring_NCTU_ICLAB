@@ -17,7 +17,6 @@
     `define CYCLE_TIME 4.0
 `endif
 
-
 module PATTERN
 #(parameter WIDTH_DATA_1 = 384, parameter WIDTH_RESULT_1 = 8,
 parameter WIDTH_DATA_2 = 128, parameter WIDTH_RESULT_2 = 8)
@@ -219,4 +218,3 @@ $display(":( FAIL :( FAIL :( FAIL :( FAIL :( FAIL :( FAIL :( FAIL :( FAIL :( FAI
 end endtask
 
 endmodule
-
