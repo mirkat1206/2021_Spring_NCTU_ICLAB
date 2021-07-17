@@ -1,5 +1,3 @@
-# pat2str.py
-
 # store inputs
 nums = []
 
