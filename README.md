@@ -5,9 +5,8 @@ NCTU 2021 Spring Integrated Circuit Design Laboratory
 
 ## MY ICLAB NOTE
 
-[ICLAB Lab01 Note](https://medium.com/mirkat-x-blog/iclab-lab01-note-4873441553cf)
-
-[ICLAB Lab02 Note](https://medium.com/mirkat-x-blog/iclab-lab02-note-6ced5cefbc72)
+- [ICLAB Lab01 Note](https://medium.com/mirkat-x-blog/iclab-lab01-note-4873441553cf)
+- [ICLAB Lab02 Note](https://medium.com/mirkat-x-blog/iclab-lab02-note-6ced5cefbc72)
 
 [ICLAB Lab03 Note](https://medium.com/mirkat-x-blog/iclab-lab03-note-5e19d94d8cc5)
 
