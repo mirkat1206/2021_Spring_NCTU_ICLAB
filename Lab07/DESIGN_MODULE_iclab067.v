@@ -8,6 +8,7 @@
 //   Module Name : CLK_1_MODULE / CLK_2_MODULE / CLK_3_MODULE
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //############################################################################
+
 module CLK_1_MODULE(
 /* ----------------------- Input signals ----------------------- */
 	clk_1,
@@ -158,8 +159,6 @@ always @(posedge clk_2 or negedge rst_n) begin
 end
 
 endmodule
-
-
 
 
 
@@ -483,8 +482,6 @@ endmodule
 
 
 
-
-
 module CLK_3_MODULE(
 /* ----------------------- Input signals ----------------------- */
 	// global signals
@@ -530,5 +527,3 @@ always @(posedge clk_3 or negedge rst_n) begin
 end
 
 endmodule
-
-
