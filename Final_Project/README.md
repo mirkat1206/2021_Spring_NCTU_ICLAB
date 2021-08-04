@@ -4,7 +4,7 @@ github 上有 2018 年的 ICLAB
 
 那個 design 根本比這學期的 lab 還要簡單
 
-不過這次的 final project 跟期中一樣
+不過這次的 final project 跟 midterm project 一樣
 
 要求設計須有 DRAM/SRAM(cache)/REG 三層架構
 
