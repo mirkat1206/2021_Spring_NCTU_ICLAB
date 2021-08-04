@@ -8,12 +8,14 @@ github 上有 2018 年的 ICLAB
 
 要求設計須有 DRAM/SRAM(cache)/REG 三層架構
 
-我基本上把 midterm project 的架構直接照抄
+我 midterm project 的架構設計的挺好的
+
+基本上把 midterm project 的架構直接照抄
 
 ALU 部分改一下
 
-其實蠻快就寫好了
+蠻快就寫好了
 
 比較困難的是如何產生合法的 testcase
 
-可以參考我的 python
+這部分可以參考我的 python
