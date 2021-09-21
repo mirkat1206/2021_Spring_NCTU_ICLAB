@@ -16,3 +16,18 @@ NCTU 2021 Spring Integrated Circuit Design Laboratory
 - [ICLAB Bonus Lab Note](https://medium.com/mirkat-x-blog/iclab-bonus-lab-note-2fc17ff225cc)
 - [ICLAB Lab11 Note](https://medium.com/mirkat-x-blog/iclab-lab11-note-af5a4a25b304)
 - [ICLAB Lab12 Note](https://medium.com/mirkat-x-blog/iclab-lab12-note-803ceb14a757)
+
+## Labs
+- Lab01: Supper MOSFET Calculator (SMC)
+- Lab02: String Match Engine (SME)
+- Lab03: Sudoku (SD)
+- Lab04: Artificial Neural Network (NN)
+- Lab05: Matrix Computation (MC)
+- Lab06: CheckSum (CS)
+- Lab07: Polish Notation (PN)
+- Lab08: Series Processiong (SP)
+- Lab09: Happy Farm (HF)
+- Lab10: Coverage of Lab09 Happy Farm (HF)
+- Lab Bonus: Formal Verification
+- Lab11: Matrix Computation (MC)
+- Lab12: Artificial Neural Network APRII
