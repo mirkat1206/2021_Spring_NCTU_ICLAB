@@ -3,7 +3,7 @@ NCTU 2021 Spring Integrated Circuit Design Laboratory
 
 麻煩不要寄信問我講義密碼，有設密碼代表老師不希望講義外流。
 
-大家努力尋找身邊有選過 iclab 的學長姐/同學/學弟妹要密碼吧 *\^_^/*
+大家努力尋找身邊有選過 iclab 的學長姐/同學/學弟妹要密碼吧 <(￣3￣)>
 
 
 ## MY ICLAB NOTE
