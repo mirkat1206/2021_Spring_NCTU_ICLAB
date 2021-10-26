@@ -5,7 +5,7 @@ NCTU 2021 Spring Integrated Circuit Design Laboratory
 
 大家努力尋找身邊有選過 iclab 的學長姐/同學/學弟妹要密碼吧 <(￣3￣)>
 
-p.s. 巴哈場外?
+🦉🦉🦉巴哈場外是什麼？可以吃嗎？🦉🦉🦉
 
 
 ## MY ICLAB NOTE
