@@ -22,6 +22,7 @@ NCTU 2021 Spring Integrated Circuit Design Laboratory
 - [ICLAB Bonus Lab Note](https://medium.com/mirkat-x-blog/iclab-bonus-lab-note-2fc17ff225cc)
 - [ICLAB Lab11 Note](https://medium.com/mirkat-x-blog/iclab-lab11-note-af5a4a25b304)
 - [ICLAB Lab12 Note](https://medium.com/mirkat-x-blog/iclab-lab12-note-803ceb14a757)
+- [HackMD 易讀版](https://hackmd.io/@mirkat1206/BkiEkD_it/%2F3fknZ-_UR1iDvhLIw3CIGA)
 
 ## Labs
 - Lab01: Supper MOSFET Calculator (SMC)
